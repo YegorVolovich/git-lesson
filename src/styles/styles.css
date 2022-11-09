@@ -69,5 +69,6 @@
   text-decoration-line: line-through;
 }
 .text-block__blue {
-  background-color: blue;
+ background-color: #e9f2fa;
+ color: #247cc0;
 }
